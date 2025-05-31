@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\myprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\toontanks\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unreal\\toontanks\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\unreal\\toontanks\\toontanks\\source\\toontanks\\myprojectile.h",
+            "e:\\unreal\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\myprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

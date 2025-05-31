@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/BP_Turret.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/BP_Projectile.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/BP_Tank.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Tank_GameMode.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/BP_TankPlayerController.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Widget/WBP_StartGame.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Widget/WBP_EndGame.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Widget/WBP_Finish_Game.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Assets/Effects/P_HitEffect.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Assets/Effects/P_DeathEffect.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/BP_Hit_CameraShake.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Camera/BP_Hit_CameraShake.uasset",
+				"E:/Unreal/ToonTanks/ToonTanks/Content/Blueprints/Camera/BP_Dead_CameraShake.uasset"
+			]
+		}
+	]
+}
